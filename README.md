@@ -7,7 +7,7 @@
 ### step 3: right click on the 'menuapp' folder
 - click on 'Open in intergrated terminal'
 ### step 4: In the terminal enter 'npm start'
--wait for the expo ap to start up 
+- wait for the expo ap to start up 
 ### step 5: Use your mobile device and scan the bar code
 - make sure you have the expo app downloaded on your mobile device
 ### step 6: Test the app!
